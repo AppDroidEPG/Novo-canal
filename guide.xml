@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="FX">
+    <display-name lang="pt">FX</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="FX HD">
+    <display-name lang="pt">FX HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="pt">HBO</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Sony HD">
+    <display-name lang="pt">Sony HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Comedy Central">
+    <display-name lang="pt">Comedy Central</display-name>
+    <icon src="https://www.lineup.tv.br/canais/1592628217.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <programme start="20200630003400 -0300" stop="20200630023300 -0300" channel="FX HD">
+    <title lang="pt">Riddick 3</title>
+  </programme>
+  <programme start="20200630023300 -0300" stop="20200630025500 -0300" channel="FX HD">
+    <title lang="pt">American Dad</title>
+  </programme>
+  <programme start="20200630025500 -0300" stop="20200630031700 -0300" channel="FX HD">
+    <title lang="pt">Uma Família da Pesada</title>
+  </programme>
+  <programme start="20200630031700 -0300" stop="20200630050600 -0300" channel="FX HD">
+    <title lang="pt">Missão Impossível</title>
+  </programme>
+  <programme start="20200630050600 -0300" stop="20200630063800 -0300" channel="FX HD">
+    <title lang="pt">O Alvo</title>
+  </programme>
+  <programme start="20200630063800 -0300" stop="20200630070000 -0300" channel="FX HD">
+    <title lang="pt">American Dad</title>
+  </programme>
+  <programme start="20200630070000 -0300" stop="20200630073000 -0300" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+  </programme>
+  <programme start="20200630073000 -0300" stop="20200630080000 -0300" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+  </programme>
+  <programme start="20200630080000 -0300" stop="20200630083000 -0300" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+  </programme>
+  <programme start="20200630083000 -0300" stop="20200630090000 -0300" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+  </programme>
+  <programme start="20200630090000 -0300" stop="20200630100000 -0300" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+  </programme>
+  <programme start="20200630100000 -0300" stop="20200630113000 -0300" channel="FX HD">
+    <title lang="pt">Jumper</title>
+  </programme>
+  <programme start="20200630113000 -0300" stop="20200630115500 -0300" channel="FX HD">
+    <title lang="pt">American Dad</title>
+  </programme>
+  <programme start="20200630115500 -0300" stop="20200630122000 -0300" channel="FX HD">
+    <title lang="pt">Uma Família da Pesada</title>
+  </programme>
+  <programme start="20200630122000 -0300" stop="20200630124500 -0300" channel="FX HD">
+    <title lang="pt">Bob's Burgers</title>
+  </programme>
+  <programme start="20200630124500 -0300" stop="20200630144000 -0300" channel="FX HD">
+    <title lang="pt">Missão Impossível</title>
+  </programme>
+  <programme start="20200630144000 -0300" stop="20200630163000 -0300" channel="FX HD">
+    <title lang="pt">Qual Seu Número?</title>
+  </programme>
+  <programme start="20200630163000 -0300" stop="20200630182000 -0300" channel="FX HD">
+    <title lang="pt">Assassin's Creed</title>
+  </programme>
+  <programme start="20200630182000 -0300" stop="20200630200500 -0300" channel="FX HD">
+    <title lang="pt">A Grande Muralha</title>
+  </programme>
+  <programme start="20200630200500 -0300" stop="20200630223000 -0300" channel="FX HD">
+    <title lang="pt">Capitão Phillips</title>
+  </programme>
+  <programme start="20200630223000 -0300" stop="20200630232000 -0300" channel="FX HD">
+    <title lang="pt">Impuros</title>
+  </programme>
+  <programme start="20200630232000 -0300" stop="20200701000000 -0300" channel="FX HD">
+    <title lang="pt">Impuros</title>
+  </programme>
+  <programme start="20200630002000 -0300" stop="20200630011000 -0300" channel="Sony HD">
+    <title lang="pt">The Good Doctor: O Bom Doutor</title>
+  </programme>
+  <programme start="20200630011000 -0300" stop="20200630020000 -0300" channel="Sony HD">
+    <title lang="pt">The Good Doctor: O Bom Doutor</title>
+  </programme>
+  <programme start="20200630020000 -0300" stop="20200630025000 -0300" channel="Sony HD">
+    <title lang="pt">The Good Doctor: O Bom Doutor</title>
+  </programme>
+  <programme start="20200630025000 -0300" stop="20200630034000 -0300" channel="Sony HD">
+    <title lang="pt">The Good Doctor: O Bom Doutor</title>
+  </programme>
+  <programme start="20200630034000 -0300" stop="20200630043000 -0300" channel="Sony HD">
+    <title lang="pt">The Good Doctor: O Bom Doutor</title>
+  </programme>
+  <programme start="20200630043000 -0300" stop="20200630053000 -0300" channel="Sony HD">
+    <title lang="pt">The Good Doctor: O Bom Doutor</title>
+  </programme>
+  <programme start="20200630053000 -0300" stop="20200630060000 -0300" channel="Sony HD">
+    <title lang="pt">Black-ish</title>
+  </programme>
+  <programme start="20200630060000 -0300" stop="20200630070000 -0300" channel="Sony HD">
+    <title lang="pt">Shark Tank</title>
+  </programme>
+  <programme start="20200630070000 -0300" stop="20200630073000 -0300" channel="Sony HD">
+    <title lang="pt">American Housewife</title>
+  </programme>
+  <programme start="20200630073000 -0300" stop="20200630080000 -0300" channel="Sony HD">
+    <title lang="pt">American Housewife</title>
+  </programme>
+  <programme start="20200630080000 -0300" stop="20200630090000 -0300" channel="Sony HD">
+    <title lang="pt">Grey's Anatomy</title>
+  </programme>
+  <programme start="20200630090000 -0300" stop="20200630100000 -0300" channel="Sony HD">
+    <title lang="pt">Grey's Anatomy</title>
+  </programme>
+  <programme start="20200630100000 -0300" stop="20200630110000 -0300" channel="Sony HD">
+    <title lang="pt">Grey's Anatomy</title>
+  </programme>
+  <programme start="20200630110000 -0300" stop="20200630120000 -0300" channel="Sony HD">
+    <title lang="pt">Station 19</title>
+  </programme>
+  <programme start="20200630120000 -0300" stop="20200630134000 -0300" channel="Sony HD">
+    <title lang="pt">Aprovados</title>
+  </programme>
+  <programme start="20200630134000 -0300" stop="20200630143500 -0300" channel="Sony HD">
+    <title lang="pt">Shark Tank</title>
+  </programme>
+  <programme start="20200630143500 -0300" stop="20200630153000 -0300" channel="Sony HD">
+    <title lang="pt">Shark Tank</title>
+  </programme>
+  <programme start="20200630153000 -0300" stop="20200630180000 -0300" channel="Sony HD">
+    <title lang="pt">Questão de Honra</title>
+  </programme>
+  <programme start="20200630180000 -0300" stop="20200630200500 -0300" channel="Sony HD">
+    <title lang="pt">Nunca Mais</title>
+  </programme>
+  <programme start="20200630200500 -0300" stop="20200630210000 -0300" channel="Sony HD">
+    <title lang="pt">The Good Doctor: O Bom Doutor</title>
+  </programme>
+  <programme start="20200630210000 -0300" stop="20200630215500 -0300" channel="Sony HD">
+    <title lang="pt">Grey's Anatomy</title>
+  </programme>
+  <programme start="20200630215500 -0300" stop="20200630225000 -0300" channel="Sony HD">
+    <title lang="pt">Station 19</title>
+  </programme>
+  <programme start="20200630225000 -0300" stop="20200630234500 -0300" channel="Sony HD">
+    <title lang="pt">Grey's Anatomy</title>
+  </programme>
+  <programme start="20200630234500 -0300" stop="20200701004000 -0300" channel="Sony HD">
+    <title lang="pt">Station 19</title>
+  </programme>
+</tv>
